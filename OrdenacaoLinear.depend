@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1535481278 source:c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\ordenacaolinear\main.cpp
+	<iostream>
+	"CountingSort.h"
+	"RadixSort.h"
+
+1535479130 c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\ordenacaolinear\include\countingsort.h
+	<iostream>
+
+1535479130 source:c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\ordenacaolinear\src\countingsort.cpp
+	"CountingSort.h"
+
+1535481412 source:c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\ordenacaolinear\src\radixsort.cpp
+	"RadixSort.h"
+
+1535481368 c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\ordenacaolinear\include\radixsort.h
+	<iostream>
+
