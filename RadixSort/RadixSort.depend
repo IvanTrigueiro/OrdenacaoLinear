@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1535486273 source:c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\ordenacaolinear\radixsort\main.cpp
+	<iostream>
+	"RadixSort.h"
+
+1535486194 source:c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\ordenacaolinear\radixsort\src\radixsort.cpp
+	"RadixSort.h"
+
+1535486224 c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\ordenacaolinear\radixsort\include\radixsort.h
+	<iostream>
+

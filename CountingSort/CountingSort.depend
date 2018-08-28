@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1535485534 source:c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\ordenacaolinear\countingsort\src\countingsort.cpp
+	"CountingSort.h"
+
+1535485502 c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\ordenacaolinear\countingsort\include\countingsort.h
+	<iostream>
+
